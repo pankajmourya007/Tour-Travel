@@ -6,21 +6,26 @@ This website is make for example purpose only. This is completely responsive web
 ## You wanna try this:
 
 
-<button type="button" href="https://touraurtravel.netlify.app">Click me!</button>
+<a type="button" href="https://touraurtravel.netlify.app">Click me!</a>
 
 
 # Contact here:
 ♠Instagram :
-https://www.instagram.com/____pankaj_mourya____/
+<a type="button" href="https://www.instagram.com/pankajmourya0070">Instagram</a>
+
+
 
 
 
 
 
 ♠Twitter Handle :
-https://twitter.com/PankajjjMourya
+ <a type="button" href="https://twitter.com/PankajjjMourya">Twitter</a>
 
 
 
-♠Contact me :
-https://linktr.ee/pankajmourya007
+
+
+♠Contact me : 
+<a type="button" href="https://linktr.ee/pankajmourya007">Click Here!</a>
+
